@@ -1,0 +1,1 @@
+loops *through* a block of code a number of times. The 'initialization statement' is executed only once at the beginning of the for loop. Then the test expression is checked by the program, if it's false for loop is terminated, otherwise expression inside for loop's body is executed and then update expression is updated. This process repeats until test expression is false.
